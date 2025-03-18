@@ -1,7 +1,10 @@
-SIMPLE WEB PAGE DESIGN
+# 🌟 Project Name: Simple Web Page Design
 
-This project is a simple webpage built using HTML and CSS that includes a styled button and a welcoming message.
-It's designed to be visually appealing and easy to understand, with a focus on providing a responsive and customizable user interface.
+## 📌 Description
+This project is a simple webpage built using **HTML** and **CSS** that includes a styled button and a welcoming message. It's designed to be visually appealing and easy to understand, with a focus on providing a responsive and customizable user interface.
+
+## 🎨 Demo Preview (HTML & CSS)
+Here is a simple **HTML & CSS** snippet from the project:
 
 <!DOCTYPE html>
 <html lang="en">
